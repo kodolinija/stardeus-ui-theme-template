@@ -1,0 +1,7 @@
+{
+    "Id" : "ColorsThemeTemplate",
+    "Name" : "Colors Theme Template",
+    "Description" : "Example of how to replace UI colors in game",
+    "Dependencies" : [ "Core" ],
+    "Version" : "1.0.0"
+}
